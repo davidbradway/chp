@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="960"
+   height="960"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="volume.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="503.65989"
+     inkscape:cy="520.00001"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.2218952e-5,-92.36217)">
+    <rect
+       style="fill:#bb0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="958.90002"
+       height="958.90002"
+       x="0.54997557"
+       y="92.91217" />
+    <text
+       xml:space="preserve"
+       style="font-size:1007.64575195px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       x="24.623446"
+       y="994.61426"
+       id="text3820"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99788916,1.0021153)"><tspan
+         sodipodi:role="line"
+         id="tspan3822"
+         x="24.623446"
+         y="994.61426"
+         style="stroke-width:4"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:150.67648315px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="8.770298"
+       y="231.24963"
+       id="text3755"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000721,0.99992791)"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="8.770298"
+         y="231.24963"
+         style="stroke:#000000;stroke-width:4;stroke-opacity:1">CHAMPIONS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:306.09356689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="4.8876739"
+       y="601.78815"
+       id="text3759"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0003487,0.9996514)"><tspan
+         sodipodi:role="line"
+         id="tspan3761"
+         x="4.8876739"
+         y="601.78815"
+         style="stroke-width:4">turn up</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:194.28468323px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-3.2948506"
+       y="941.73535"
+       id="text3759-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0054944,0.99453563)"><tspan
+         sodipodi:role="line"
+         id="tspan3761-7"
+         x="-3.2948506"
+         y="941.73535"
+         style="stroke:#000000;stroke-width:3.99999952;stroke-opacity:1">the volume</tspan></text>
+  </g>
+</svg>
