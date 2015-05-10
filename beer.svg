@@ -76,19 +76,15 @@
          x="8.770298"
          y="231.24963"
          style="stroke:#000000;stroke-width:4;stroke-opacity:1">CHAMPIONS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:716.8694458px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-       x="246.84207"
-       y="1014.6972"
-       id="text3800"
-       sodipodi:linespacing="125%"
-       transform="scale(0.9983607,1.001642)"><tspan
-         sodipodi:role="line"
-         id="tspan3802"
-         x="246.84207"
-         y="1014.6972"
-         style="stroke-width:4"></tspan></text>
+    <g
+       transform="scale(0.9983607,1.001642)"
+       style="font-size:716.8694458px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       id="text3800">
+      <path
+         d="m 502.87273,758.66654 c -2.83393,2.6e-4 -8.26792,2.6e-4 -16.30195,0 -8.03452,2.6e-4 -19.66924,2.6e-4 -34.90418,0 -14.56028,-0.35812 -26.64506,-5.34205 -36.25436,-14.95179 -9.60964,-9.6092 -14.59356,-21.69397 -14.95177,-36.25434 -1.5e-4,-1.06649 -1.5e-4,-11.73442 0,-32.00383 -1.5e-4,-20.26874 -1.5e-4,-43.73819 0,-70.40843 l 102.41226,0 0,153.61839 z m 409.64906,179.22147 -51.20613,-76.8092 0,-320.03833 25.60307,-12.80153 -12.80154,-76.8092 -384.04599,0 -12.80153,51.20613 -192.023,0 -12.80153,51.20613 25.60306,25.60307 0,128.01533 c 1.10009,43.50548 16.10187,79.70978 45.00539,108.61301 28.90333,28.90362 65.10763,43.90541 108.61301,45.00539 3.78358,1.5e-4 12.31793,1.5e-4 25.60307,0 13.28468,1.5e-4 21.81902,1.5e-4 25.60306,0 l -51.20613,76.8092 0,76.80919 460.85519,0 z"
+         style=""
+         id="path3300" />
+    </g>
     <text
        xml:space="preserve"
        style="font-size:228.8407135px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
